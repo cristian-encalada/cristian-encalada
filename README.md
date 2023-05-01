@@ -1,18 +1,22 @@
-<h1 align="center">Hi 👋, I'm Cristian Encalada</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristian-encalada&label=Profile%20views&color=0e75b6&style=flat" alt="cristian-encalada" /> </p>
+
+<img alt="github contribution snake animation" src="https://github.com/cristian-encalada/cristian-encalada/blob/output/github-contribution-grid-snake.svg">
+
+<h1 align="center">Hi!, I'm Cristian Encalada </h1>
 
 ### &nbsp;About Me
 
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp; Bachelor of Science in Electronics Engineering at ["Universidad Mayor de San Simón"](http://www.fcyt.umss.edu.bo/) (Bolivia :bolivia:) \
-&nbsp;&nbsp;&nbsp;:desktop_computer: &nbsp; Currently doing the Software Development bootcamp at [Holberton School](https://holbertonschool.uy/) (Uruguay 🇺🇾) \
-&nbsp;&nbsp;&nbsp;:atom: &nbsp; Strong interest about maths, physics, science and technology as a whole. \
-&nbsp;&nbsp;&nbsp;:brain: &nbsp; Constant curiosity and desire to learn about new things. Actively seeking out information on topics I'm unfamiliar with \
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Bachelor of Science in Electronics Engineering at ["Universidad Mayor de San Simón"](http://www.fcyt.umss.edu.bo/) (Bolivia :bolivia:) \
+&nbsp;&nbsp;&nbsp;:desktop_computer: &nbsp;Currently doing the Software Development bootcamp at [Holberton School](https://holbertonschool.uy/) (Uruguay 🇺🇾) \
+&nbsp;&nbsp;&nbsp;:satellite: &nbsp;Strong interest about maths, physics, science and technology as a whole. \
+&nbsp;&nbsp;&nbsp;:brain: &nbsp;Constant curiosity and desire to learn about new things. Actively seeking out information on topics I'm unfamiliar with \
 &nbsp;&nbsp;&nbsp;:uruguay: &nbsp;Living in Montevideo - Uruguay.
 
 ### &nbsp;How to Reach Me
 <p align="center">
   <a href="mailto:cris.encalada.camargo@gmail.com?subject=Olá%20Cristian%20Encalada"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/cristian.encaladacamargo"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brunotacca/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/josé-cristian-encalada-camargo-45099616a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
@@ -67,8 +71,3 @@
     <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristian-encalada&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="cristian-encalada" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristian-encalada&show_icons=true&locale=en&theme=nightowl" alt="cristian-encalada" />
     </p>
-
-
-<p align="left">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristian-encalada&label=Profile%20views&color=0e75b6&style=flat" alt="cristian-encalada" /> </p>
-</p>
