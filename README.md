@@ -2,6 +2,8 @@
 
 <img alt="github contribution snake animation" src="https://github.com/cristian-encalada/cristian-encalada/blob/output/github-contribution-grid-snake.svg">
 
+ :snake: Snake game generated from my github user contributions graph. Generated with [Platane/snk](https://github.com/Platane/snk)
+
 <h1 align="center">Hi!, I'm Cristian Encalada </h1>
 
 ### &nbsp;About Me
