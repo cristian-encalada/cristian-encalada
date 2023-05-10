@@ -1,26 +1,46 @@
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristian-encalada&label=Profile%20views&color=0e75b6&style=flat" alt="cristian-encalada" /> </p>
-
+--->
 <img alt="github contribution snake animation" src="https://github.com/cristian-encalada/cristian-encalada/blob/output/github-contribution-grid-snake.svg">
 
  :snake: Snake game generated from my github user contributions graph. Generated with [Platane/snk](https://github.com/Platane/snk)
 
 <h1 align="center">Hi!, I'm Cristian Encalada </h1>
+<details>
 
-### &nbsp;About Me
+  <summary>
+  &nbsp;<b>About Me</b>
+  </summary>
 
-&nbsp;&nbsp;&nbsp;:desktop_computer: &nbsp;Currently doing the Software Development bootcamp at [Holberton School](https://holbertonschool.uy/) (Uruguay 🇺🇾) \
-&nbsp;&nbsp;&nbsp;:satellite: &nbsp;Experience working as a Junior QA Software Enginner at [Jalasoft](https://www.jalasoft.com/) (Bolivia :bolivia:) \
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Bachelor of Science in Electronics Engineering at ["Universidad Mayor de San Simón"](http://www.fcyt.umss.edu.bo/) (Bolivia :bolivia:) \
-&nbsp;&nbsp;&nbsp;:brain: &nbsp;Strong interest about maths, physics, science and technology (STEM). Constant curiosity and desire to learn about new things. \
-&nbsp;&nbsp;&nbsp;:uruguay: &nbsp;Living in Montevideo - Uruguay.
+  &nbsp;&nbsp;&nbsp;:desktop_computer: &nbsp;Currently doing the __Software Development bootcamp__ at [Holberton School](https://holbertonschool.uy/) (Uruguay 🇺🇾) \
+  &nbsp;&nbsp;&nbsp;:satellite: &nbsp;Experience working as a __QA Software Engineer__ at [Jalasoft](https://www.jalasoft.com/) (Bolivia :bolivia:) \
+  &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Bachelor of Science in __Electronics Engineering__ at ["Universidad Mayor de San Simón"](http://www.fcyt.umss.edu.bo/) (Bolivia :bolivia:) \
+  &nbsp;&nbsp;&nbsp;:brain: &nbsp;Strong interest __mathematics and physics__. Constant curiosity and desire to learn about new things. \
+  &nbsp;&nbsp;&nbsp;:uruguay: &nbsp;Living in Montevideo - Uruguay.
 
-### &nbsp;How to Reach Me
+</details>
+
+<details>
+  <summary>
+  &nbsp; <b>Contact Me</b>
+  </summary>
+
+
 <p align="center">
   <a href="mailto:cris.encalada.camargo@gmail.com?subject=Olá%20Cristian%20Encalada"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/josé-cristian-encalada-camargo-45099616a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
+
+</details>
+
+<details>
+
+  <summary>
+  &nbsp; <b>Skills</b>
+  </summary>
+
 <div align="center">
 
 ### &nbsp;Programming Languages
@@ -96,6 +116,7 @@
 </p>
 </div>
 
+</details>
 
 <hr/>
 
