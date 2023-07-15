@@ -55,10 +55,11 @@
     "Technical Skills": {
       "Backend": ["C", "C#", "C++", "Java"],
       "Frontend": ["HTML 5", "CSS 3", "JavaScript", "PHP"],
-      "Database": ["MongoDB", "MySQL", "MS SQL Server"],
-      "Devops": ["Bash", "Jenkins", "Docker"],
-      "Tools": ["Linux", "Ubuntu", "Manjaro", "Kali", "Git", "Github", "Windows", "Jira", "Bitbucket", "Visual Studio Code"],
-      "Engineering Software": ["Arduino", "Raspberry PI", "Blender", "SOLIDWORKS", "MATLAB"]
+      "Database": ["MongoDB", "MySQL", "MS SQL Server", "DBeaver"],
+      "Devops": ["Bash", "Zsh", "Jenkins", "Docker"],
+      "O.S.": ["Linux", "Windows"],
+      "Dev. Tools": ["Git", "Github", "Jira", "Bitbucket", "VS Code", "Sublime Text", "Trello"],
+      "Engineering Tools": ["Arduino", "Raspberry PI", "Blender", "SOLIDWORKS", "MATLAB"]
     },
     "Soft Skills": ["Teamwork","Responsibility","Communication"],
     "Currently Learning": "Python"
