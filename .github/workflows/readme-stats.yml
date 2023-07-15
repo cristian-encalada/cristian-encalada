@@ -20,4 +20,5 @@ jobs:
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
           SHOW_PROFILE_VIEWS: "False"
-          SYMBOL_VERSION: "3"
+          SYMBOL_VERSION: "2"
+          SHOW_SHORT_INFO: "False"
