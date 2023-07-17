@@ -1,7 +1,12 @@
 <!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristian-encalada&label=Profile%20views&color=0e75b6&style=flat" alt="cristian-encalada" /> </p>
 --->
-<img alt="github contribution snake animation" src="https://github.com/cristian-encalada/cristian-encalada/blob/output/github-contribution-grid-snake.svg">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristian-encalada/cristian-encalada/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristian-encalada/cristian-encalada/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cristian-encalada/cristian-encalada/output/github-contribution-grid-snake.svg">
+</picture>
 
  :snake: Snake game dinamically generated from my github user contributions graph. Generated with [Platane/snk](https://github.com/Platane/snk)
 
