@@ -13,52 +13,25 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?duration=4000&pause=500&color=00FF00&background=000000&vCenter=true&width=435&lines=%5Bcristian%40github%5D%24+echo+Hi!;%5Bcristian%40github%5D%24+whoami)](https://git.io/typing-svg)
 
 ```JSON
-{
-  "About me": [
-    {
-      "Name": "Cristian Encalada",
-      "From": "Bolivia 🇧🇴",
-      "Living in": "Montevideo - Uruguay 🇺🇾",
-      "Studying": "Software Development at Holberton School 🇺🇾"
-    }
-  ],
-  "Experience": [
-    {
-      "Job": "QA Software Engineer",
-      "Company": "Jalasoft (Bolivia)",
-      "Period": "2019 - 2021"
-    },
-    {
-      "Job": "Computer Support technician",
-      "Company": "AppComputers (Bolivia)",
-      "Period": "2016 - 2018"
-    }
-  ],
-  "Education": [
-    {
-      "Degree": "Software Development",
-      "Location": "Uruguay - Holberton School Bootcamp",
-      "Period": "2023 - Now"
-    },
-    {
-      "Degree": "Mechanics Engineering",
-      "Location": "Bolivia - San Simon University",
-      "Period": "2020 - 2022"
-    },
-    {
-      "Degree": "Computer Science Technician",
-      "Location": "Bolivia - Institute 'Federico Alvarez Plata' Nocturno",
-      "Period": "2015 - 2017"
-    },
-    {
-      "Degree": "B.S. Electronics Engineering",
-      "Location": "Bolivia - San Simon University",
-      "Period": "2011 - 2016"
-    }
-  ],
-  "Skills": [
+ {
+  "About me": {
+    "Name": "Cristian Encalada",
+    "From": "Bolivia 🇧🇴",
+    "Living in": "Montevideo - Uruguay 🇺🇾",
+    "Studying": "Software Development at Holberton School 🇺🇾"
+  },
+  "IT Experience": {
+    "QA Software Engineer": ["Jalasoft Company", "Bolivia 🇧🇴", "2019 - 2021"],
+    "Computer Support technician": ["AppComputers Company", "Bolivia 🇧🇴", "2016 - 2018"]
+  },
+  "Education": {
+    "Software Development": ["'Holberton School' Bootcamp", "Uruguay 🇺🇾", "2023 - Now"],
+    "Computer Science Technician": ["'Alvarez Plata' Institute", "Bolivia 🇧🇴", "2015 - 2017"],
+    "Electronics Engineer": ["San Simon University", "Bolivia 🇧🇴", "2011 - 2016"]
+  },
+  "Skills": {
     "Technical Skills": {
-      "Backend": ["C", "C#", "C++", "Java"],
+      "Backend": ["C", "C#", "C++", "Java", "Python"],
       "Frontend": ["HTML 5", "CSS 3", "JavaScript", "PHP"],
       "Database": ["MongoDB", "MySQL", "MS SQL Server", "DBeaver"],
       "Devops": ["Bash", "Zsh", "Jenkins", "Docker"],
@@ -66,9 +39,9 @@
       "Dev. Tools": ["Git", "Github", "Jira", "Bitbucket", "VS Code", "Sublime Text", "Trello"],
       "Engineering Tools": ["Arduino", "Raspberry PI", "Blender", "SOLIDWORKS", "MATLAB"]
     },
-    "Soft Skills": ["Teamwork","Responsibility","Communication"],
-    "Currently Learning": "Python"
-  ]
+    "Soft Skills": ["Teamwork", "Responsibility", "Communication"],
+    "Currently Learning": ["Python", "SQL", "Jekyll"]
+  }
 }
 ```
 
