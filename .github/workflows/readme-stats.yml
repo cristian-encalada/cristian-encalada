@@ -22,4 +22,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SYMBOL_VERSION: "1"
           SHOW_SHORT_INFO: "False"
-          COMMIT_BY_ME: "True"
+          COMMIT_BY_ME: "False"
