@@ -8,7 +8,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cristian-encalada/cristian-encalada/output/github-contribution-grid-snake.svg">
 </picture>
 
- :snake: Snake game dinamically generated from my github user contributions graph. Generated with [Platane/snk](https://github.com/Platane/snk)
+ :snake: Generate your own snake graph dynamically using __GitHub Actions__ with this [tutorial](https://cristian-encalada.github.io/docs/posts/generate-snake-graph-github-actions/).
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?duration=4000&pause=500&color=00FF00&background=000000&vCenter=true&width=435&lines=%5Bcristian%40github%5D%24+echo+Hi!;%5Bcristian%40github%5D%24+whoami)](https://git.io/typing-svg)
 
@@ -40,7 +40,7 @@
       "Engineering Tools": ["Arduino", "Raspberry PI", "Blender", "SOLIDWORKS", "MATLAB"]
     },
     "Soft Skills": ["Teamwork", "Responsibility", "Communication"],
-    "Currently Learning": ["Python", "SQL", "Jekyll"]
+    "Currently Learning": ["Python", "RESTful APIs"]
   }
 }
 ```
