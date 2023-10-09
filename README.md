@@ -8,7 +8,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cristian-encalada/cristian-encalada/output/github-contribution-grid-snake.svg">
 </picture>
 
- :snake: Generate your own snake graph dynamically using __GitHub Actions__ with this [tutorial](https://cristian-encalada.github.io/docs/posts/generate-snake-graph-github-actions/).
+ :snake: To generate your own snake graph dynamically using __GitHub Actions__ take a look at this [blog post](https://cristian-encalada.github.io/docs/posts/generate-snake-graph-github-actions/).
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?duration=4000&pause=500&color=00FF00&background=000000&vCenter=true&width=435&lines=%5Bcristian%40github%5D%24+echo+Hi!;%5Bcristian%40github%5D%24+whoami)](https://git.io/typing-svg)
 
@@ -21,22 +21,21 @@
     "Studying": "Software Development at Holberton School 🇺🇾"
   },
   "IT Experience": {
-    "QA Software Engineer": ["Jalasoft Company", "Bolivia 🇧🇴", "2019 - 2021"],
-    "Computer Support technician": ["AppComputers Company", "Bolivia 🇧🇴", "2016 - 2018"]
+    "QA Software Engineer": ["Jalasoft Company", "Bolivia", "2019 - 2021"],
+    "Computer Support technician": ["AppComputers Company", "Bolivia", "2016 - 2018"]
   },
   "Education": {
-    "Software Development": ["'Holberton School' Bootcamp", "Uruguay 🇺🇾", "2023 - Now"],
-    "Computer Science Technician": ["'Alvarez Plata' Institute", "Bolivia 🇧🇴", "2015 - 2017"],
-    "Electronics Engineer": ["San Simon University", "Bolivia 🇧🇴", "2011 - 2016"]
+    "Software Development": ["'Holberton School' Bootcamp", "Uruguay", "2023 - Now"],
+    "Computer Science Technician": ["'Alvarez Plata' Institute", "Bolivia", "2015 - 2017"],
+    "Electronics Engineer": ["San Simon University", "Bolivia", "2011 - 2016"]
   },
   "Skills": {
     "Technical Skills": {
-      "Backend": ["C", "C#", "C++", "Java", "Python"],
-      "Frontend": ["HTML 5", "CSS 3", "JavaScript", "PHP"],
-      "Database": ["MongoDB", "MySQL", "MS SQL Server", "DBeaver"],
-      "Devops": ["Bash", "Zsh", "Jenkins", "Docker"],
+      "Backend": ["Python", "Flask", "C", "C#", "Java"],
+      "Frontend": ["HTML 5", "CSS 3", "JavaScript", "React"],
+      "Database": ["SQL", "MongoDB", "MySQL", "DBeaver"],
       "O.S.": ["Linux", "Windows"],
-      "Dev. Tools": ["Git", "Github", "Jira", "Bitbucket", "VS Code", "Sublime Text", "Trello"],
+      "Dev. Tools": ["Git", "Github", "Docker", "Jira", "Trello", "Bitbucket", "VS Code", "Sublime Text", "Vim", "Bash"],
       "Engineering Tools": ["Arduino", "Raspberry PI", "Blender", "SOLIDWORKS", "MATLAB"]
     },
     "Soft Skills": ["Teamwork", "Responsibility", "Communication"],
@@ -112,7 +111,9 @@ Shell                    2 repos             ██░░░░░░░░░�
 
 <div align = "center">
 
+<!--
 ![Cristian's github_streak](https://github-readme-streak-stats.herokuapp.com/?user=cristian-encalada&hide_border=true&theme=dark)
+-->
 
 ![Cristian's github_languages](https://github-readme-stats.vercel.app/api/top-langs?username=cristian-encalada&show_icons=true&hide_border=true&locale=en&layout=compact&theme=dark)
 
