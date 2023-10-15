@@ -11,7 +11,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -24,3 +24,7 @@ jobs:
           SYMBOL_VERSION: "1"
           SHOW_SHORT_INFO: "False"
           COMMIT_BY_ME: "False"
+      - name: Debug Secrets
+        run: |
+          echo "WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}"
+          echo "GH_TOKEN: ${{ secrets.GH_TOKEN }}"
