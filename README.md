@@ -16,9 +16,9 @@
  {
   "About me": {
     "Name": "Cristian Encalada",
-    "From": "Bolivia 🇧🇴",
-    "Living in": "Montevideo - Uruguay 🇺🇾",
-    "Studying": "Software Development at Holberton School 🇺🇾"
+    "From": "Bolivia",
+    "Living in": "Montevideo - Uruguay",
+    "Studying": "Software Development at Holberton School - Uruguay"
   },
   "IT Experience": {
     "QA Software Engineer": ["Jalasoft Company", "Bolivia", "2019 - 2021"],
@@ -31,15 +31,15 @@
   },
   "Skills": {
     "Technical Skills": {
-      "Backend": ["Python", "Flask", "C", "C#", "Java"],
-      "Frontend": ["HTML 5", "CSS 3", "JavaScript", "React"],
+      "Backend": ["Python", "Flask", "C", "C#", "Java", "NodeJS"],
+      "Frontend": ["Figma", "Tailwind CSS", "JavaScript"],
       "Database": ["SQL", "MongoDB", "MySQL", "DBeaver"],
       "O.S.": ["Linux", "Windows"],
       "Dev. Tools": ["Git", "Github", "Docker", "Jira", "Trello", "Bitbucket", "VS Code", "Sublime Text", "Vim", "Bash"],
       "Engineering Tools": ["Arduino", "Raspberry PI", "Blender", "SOLIDWORKS", "MATLAB"]
     },
-    "Soft Skills": ["Teamwork", "Responsibility", "Communication"],
-    "Currently Learning": ["Python", "RESTful APIs"]
+    "Soft Skills": ["Project Management", "Teamwork", "Responsibility", "Communication"],
+    "Currently Learning": ["React", "Next.JS"]
   }
 }
 ```
@@ -48,62 +48,6 @@
 
  SVG images Generated with [Readme Typing SVG](https://readme-typing-svg.demolab.com/demo/)
 
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                382 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-🌆 Daytime                985 commits         ███████████░░░░░░░░░░░░░░   43.07 % 
-🌃 Evening                882 commits         ██████████░░░░░░░░░░░░░░░   38.57 % 
-🌙 Night                  38 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Tuesday                  444 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Wednesday                195 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Thursday                 487 commits         █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Friday                   374 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Saturday                 183 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Sunday                   211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Montevideo
-
-💬 Programming Languages: 
-JavaScript               3 hrs 23 mins       ███████████░░░░░░░░░░░░░░   43.15 % 
-HTML                     2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Git Config               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 52 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    7 hrs 52 mins       █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in C** 
-
-```text
-C                        8 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Python                   7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-```
-
-
-
-
- Last Updated on 11/11/2023 02:29:33 UTC
-<!--END_SECTION:waka-->
 
 <div align = "center">
 
@@ -115,6 +59,6 @@ Shell                    2 repos             ██░░░░░░░░░�
 
 ![Cristian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cristian-encalada&theme=github-compact)
 
-Activity graph generated with [readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+Activity Graph Generated with [readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
