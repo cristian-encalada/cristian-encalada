@@ -8,7 +8,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cristian-encalada/cristian-encalada/output/github-contribution-grid-snake.svg">
 </picture>
 
- :snake: To generate your own snake graph dynamically using __GitHub Actions__ take a look at this [blog post](https://cristian-encalada.github.io/docs/posts/generate-snake-graph-github-actions/).
+ :snake: To generate your own snake graph dynamically using __GitHub Actions__ take a look at this [blog post](https://cristianencalada-blog.vercel.app/blog/en/2023-08-11-generate-snake-graph-github-actions).
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?duration=4000&pause=500&color=00FF00&background=000000&vCenter=true&width=435&lines=%5Bcristian%40github%5D%24+echo+Hi!;%5Bcristian%40github%5D%24+whoami)](https://git.io/typing-svg)
 
@@ -17,36 +17,33 @@
   "About me": {
     "Name": "Cristian Encalada",
     "From": "Bolivia",
-    "Living in": "Montevideo - Uruguay",
-    "Studying": "Software Development at Holberton School - Uruguay"
+    "Living in": "Montevideo - Uruguay"
   },
   "IT Experience": {
-    "QA Software Engineer": ["Jalasoft Company", "Bolivia", "2019 - 2021"],
-    "Computer Support technician": ["AppComputers Company", "Bolivia", "2016 - 2018"]
+    "QA Software Engineer": ["Jalasoft", "Bolivia", "2019 - 2021"],
+    "Computer Support technician": ["Soft Computers", "Bolivia", "2016 - 2018"]
   },
   "Education": {
-    "Software Development": ["'Holberton School' Bootcamp", "Uruguay", "2023 - Now"],
+    "Software Development": ["'Holberton School' Bootcamp", "Uruguay", "2023"],
     "Computer Science Technician": ["'Alvarez Plata' Institute", "Bolivia", "2015 - 2017"],
     "Electronics Engineer": ["San Simon University", "Bolivia", "2011 - 2016"]
   },
   "Skills": {
     "Technical Skills": {
-      "Backend": ["Python", "Flask", "C", "C#", "Java", "NodeJS"],
-      "Frontend": ["Figma", "Tailwind CSS", "JavaScript"],
-      "Database": ["SQL", "MongoDB", "MySQL", "DBeaver"],
+      "Backend": ["Python", "Flask", "C#", "Java", "Node.js"],
+      "Frontend": ["React", "Tailwind CSS", "JavaScript"],
+      "Database": ["MongoDB", "MySQL"],
       "O.S.": ["Linux", "Windows"],
       "Dev. Tools": ["Git", "Github", "Docker", "Jira", "Trello", "Bitbucket", "VS Code", "Sublime Text", "Vim", "Bash"],
       "Engineering Tools": ["Arduino", "Raspberry PI", "Blender", "SOLIDWORKS", "MATLAB"]
     },
-    "Soft Skills": ["Project Management", "Teamwork", "Responsibility", "Communication"],
-    "Currently Learning": ["React", "Next.JS"]
+    "Soft Skills": ["Project Management", "Teamwork", "Effective Communication"],
+    "Currently Learning": ["Next.js"]
   }
 }
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=501&color=00FF00&background=000000&vCenter=true&width=435&lines=%5Bcristian%40github%5D%24+ls+.%2Fstatistics)](https://git.io/typing-svg)
-
- SVG images Generated with [Readme Typing SVG](https://readme-typing-svg.demolab.com/demo/)
 
 
 <div align = "center">
@@ -62,3 +59,5 @@
 Activity Graph Generated with [readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+Animated SVG images generated with [Readme Typing SVG](https://readme-typing-svg.demolab.com/demo/)
