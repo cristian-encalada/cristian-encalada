@@ -20,6 +20,8 @@
     "Living in": "Montevideo - Uruguay"
   },
   "IT Experience": {
+    "AI Engineer": ["Promtior", "Uruguay", "2024 - now"],
+    "Web Developer": ["No Country", "Argentina", "2023 - 2023"],
     "QA Software Engineer": ["Jalasoft", "Bolivia", "2019 - 2021"],
     "Computer Support technician": ["Soft Computers", "Bolivia", "2016 - 2018"]
   },
@@ -30,15 +32,16 @@
   },
   "Skills": {
     "Technical Skills": {
-      "Backend": ["Python", "Flask", "C#", "Java", "Node.js"],
-      "Frontend": ["React", "Tailwind CSS", "JavaScript"],
-      "Database": ["MongoDB", "MySQL"],
+      "Backend": ["Python", "Flask", "C#", "Java", "Node.js", "Fast API"],
+      "Frontend": ["React", "Tailwind CSS", "JavaScript", "Next.js"],
+      "Database": ["MongoDB", "MySQL", "Chroma"],
+
       "O.S.": ["Linux", "Windows"],
       "Dev. Tools": ["Git", "Github", "Docker", "Jira", "Trello", "Bitbucket", "VS Code", "Sublime Text", "Vim", "Bash"],
       "Engineering Tools": ["Arduino", "Raspberry PI", "Blender", "SOLIDWORKS", "MATLAB"]
     },
     "Soft Skills": ["Project Management", "Teamwork", "Effective Communication"],
-    "Currently Learning": ["Next.js"]
+    "Currently Learning": ["Langchain Agents"]
   }
 }
 ```
