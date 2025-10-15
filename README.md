@@ -8,7 +8,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cristian-encalada/cristian-encalada/output/github-contribution-grid-snake.svg">
 </picture>
 
- :snake: To generate your own snake graph dynamically using __GitHub Actions__ take a look at this [blog post](https://cristianencalada-blog.vercel.app/blog/en/2023-08-11-generate-snake-graph-github-actions).
+To generate your own snake graph dynamically using __GitHub Actions__ take a look at this [blog post](https://cristianencalada-blog.vercel.app/blog/en/2023-08-11-generate-snake-graph-github-actions).
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?duration=4000&pause=500&color=00FF00&background=000000&vCenter=true&width=435&lines=%5Bcristian%40github%5D%24+echo+Hi!;%5Bcristian%40github%5D%24+whoami)](https://git.io/typing-svg)
 
@@ -45,9 +45,6 @@
   }
 }
 ```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=501&color=00FF00&background=000000&vCenter=true&width=435&lines=%5Bcristian%40github%5D%24+ls+.%2Fstatistics)](https://git.io/typing-svg)
-
 
 <div align = "center">
 
