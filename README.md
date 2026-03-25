@@ -10,9 +10,9 @@
 
 To generate your own snake graph dynamically using __GitHub Actions__ take a look at this [blog post](https://cristianencalada-blog.vercel.app/blog/en/2023-08-11-generate-snake-graph-github-actions).
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?duration=4000&pause=500&color=1793D1&background=000000&vCenter=true&width=800&lines=%5Bcristian%40github%5D%24+neofetch;%5Bcristian%40github%5D%24+cat+about.txt)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?duration=4000&pause=500&color=1793D1&background=000000&vCenter=true&width=1000&lines=%5Bcristian%40github%5D%24+neofetch;%5Bcristian%40github%5D%24+cat+about.txt)](https://git.io/typing-svg)
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="40%" valign="top">
       <pre>
@@ -27,27 +27,30 @@ To generate your own snake graph dynamically using __GitHub Actions__ take a loo
       </pre>
     </td>
     <td width="60%" valign="top">
-      <pre>
-<b>cristian@github</b>
-───────────────────────────────
-<b>OS:</b> Arch Linux x86_64
-<b>Host:</b> github.com/cristian-encalada
-<b>Kernel:</b> Bash 5.x
-<b>Uptime:</b> AI Engineer @ Promtior (2024-now)
-<b>Shell:</b> bash
-<b>Location:</b> Montevideo, Uruguay 🇺🇾
-<b>Born:</b> Bolivia 🇧🇴
 
-<b>Package Stats</b>
-───────────────────────────────
-<b>Languages:</b> Python, JavaScript, C#, Java
-<b>Backend:</b> Flask, Node.js, FastAPI
-<b>Frontend:</b> React, Next.js, Tailwind CSS
-<b>Database:</b> MongoDB, MySQL, Chroma
-<b>DevOps:</b> Docker, Git, GitHub Actions
-<b>Terminal:</b> Vim, VS Code, Bash
-      </pre>
-    </td>
+```yaml
+# cristian@github
+# ───────────────────────────────
+
+OS: Arch Linux x86_64
+Host: github.com/cristian-encalada
+Kernel: Bash 5.x
+Uptime: "AI Engineer @ Promtior (2024-now)"
+Shell: bash
+Location: "Montevideo, Uruguay 🇺🇾"
+Born: Bolivia 🇧🇴
+
+# Skills
+# ───────────────────────────────
+
+Languages: "Python, JavaScript, C#, Java"
+Backend: "Flask, Node.js, FastAPI"
+Frontend: "React, Next.js, Tailwind CSS"
+Database: "MongoDB, MySQL, Chroma"
+DevOps: "Docker, Git, GitHub Actions"
+Terminal: "Vim, VS Code, Bash"
+```
+</td>
   </tr>
 </table>
 
