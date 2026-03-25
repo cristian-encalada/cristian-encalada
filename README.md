@@ -31,24 +31,25 @@ To generate your own snake graph dynamically using __GitHub Actions__ take a loo
 ```yaml
 # cristian@github
 # ───────────────────────────────
+Uptime: 32 years
+Location: "Uruguay 🇺🇾"
+Hobby: 3D Printing, IoT, gaming
+Last Update: "AI Engineer @ Promtior (2024-now)"
 
-OS: Arch Linux x86_64
-Host: github.com/cristian-encalada
-Kernel: Bash 5.x
-Uptime: "AI Engineer @ Promtior (2024-now)"
-Shell: bash
-Location: "Montevideo, Uruguay 🇺🇾"
-Born: Bolivia 🇧🇴
-
-# Skills
+# Env
 # ───────────────────────────────
+OS: Arch Linux
+DE: Gnome
+WM: i3
+Editor: VSCode/Warp/Cursor
+Kernel: Linux 6.182
+Shell: bash
 
-Languages: "Python, JavaScript, C#, Java"
-Backend: "Flask, Node.js, FastAPI"
-Frontend: "React, Next.js, Tailwind CSS"
-Database: "MongoDB, MySQL, Chroma"
-DevOps: "Docker, Git, GitHub Actions"
-Terminal: "Vim, VS Code, Bash"
+# Contacts
+# ───────────────────────────────
+Email:  cris.encalada.camargo@gmail.com
+Linkedin: linkedin.com/in/cristian-encalada/
+CurseForge: https://www.curseforge.com/members/dev_bug/
 ```
 </td>
   </tr>
